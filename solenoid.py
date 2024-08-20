@@ -1,5 +1,6 @@
 #shoot(self) is the most importent
 #testing
+#testin 2
 class SolenoidController:
     def __init__(self, solenoid_pin):
         self.solenoid_pin = solenoid_pin
