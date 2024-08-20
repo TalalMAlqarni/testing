@@ -3,7 +3,7 @@ import Camera
 import Black_Ramp_Detection
 import Blue_Ramp_Detection
 cap = cv2.VideoCapture(0)
-# Create a new instance of the Camera class
+# Create a new instance of the Camera class sss
 cam = Camera.Camera()
 Black = Black_Ramp_Detection.BlackColorCamera()
 Blue = Blue_Ramp_Detection.BlueColorCamera()

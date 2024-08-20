@@ -7,7 +7,7 @@
 # from gpiozero import AngularServo
 # from time import sleep
 # import RPi.GPIO as GPIO
-
+#cccc
 class ServoController:
     def __init__(self, servo1_pin, servo2_pin):
         self.servo1 = AngularServo(servo1_pin, min_angle=0, max_angle=180,
